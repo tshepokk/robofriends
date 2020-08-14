@@ -1,27 +1,27 @@
 export const robots = [
     {
       id: 1,
-      name: 'Leanne Graham',
+      name: 'Marikana Marikana',
       username: 'Bret',
-      email: 'Sincere@april.biz'
+      email: 'Marikana@Marikana.biz'
     },
     {
       id: 2,
-      name: 'Ervin Howell',
+      name: 'Thabo Maloka',
       username: 'Antonette',
-      email: 'Shanna@melissa.tv'
+      email: 'Thabo@mail.tv'
     },
     {
       id: 3,
-      name: 'Clementine Bauch',
+      name: 'Mo Sima',
       username: 'Samantha',
-      email: 'Nathan@yesenia.net'
+      email: 'mo@sima.net'
     },
     {
       id: 4,
-      name: 'Patricia Lebsack',
+      name: 'le rete',
       username: 'Karianne',
-      email: 'Julianne.OConner@kory.org'
+      email: 'le.shobana@tapole.org'
     },
     {
       id: 5,
@@ -31,15 +31,15 @@ export const robots = [
     },
     {
       id: 6,
-      name: 'Mrs. Dennis Schulist',
+      name: 'Dr. Matsipo Tsipo',
       username: 'Leopoldo_Corkery',
-      email: 'Karley_Dach@jasper.info'
+      email: 'dr.matsipo_tsipo@react.info'
     },
     {
       id: 7,
-      name: 'Kurtis Weissnat',
+      name: 'Kurt Russel',
       username: 'Elwyn.Skiles',
-      email: 'Telly.Hoeger@billy.biz'
+      email: 'kurt.Hustler@billy.biz'
     },
     {
       id: 8,
