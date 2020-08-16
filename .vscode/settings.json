@@ -1,0 +1,6 @@
+{
+    "git.postCommitCommand": "push",
+    "git.scanRepositories": [
+        "/home/tshepo/Documents/Git/robofriends"
+    ]
+}
